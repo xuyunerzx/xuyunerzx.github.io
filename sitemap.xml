@@ -16,13 +16,6 @@
   </url>
   
   <url>
-    <loc>http://www.luckyzmj.cn/census/index.html</loc>
-    
-    <lastmod>2022-03-07</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://www.luckyzmj.cn/categories/index.html</loc>
     
     <lastmod>2022-03-07</lastmod>
@@ -30,7 +23,21 @@
   </url>
   
   <url>
+    <loc>http://www.luckyzmj.cn/census/index.html</loc>
+    
+    <lastmod>2022-03-07</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.luckyzmj.cn/friends/index.html</loc>
+    
+    <lastmod>2022-03-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.luckyzmj.cn/contact/index.html</loc>
     
     <lastmod>2022-03-07</lastmod>
     
@@ -45,13 +52,6 @@
   
   <url>
     <loc>http://www.luckyzmj.cn/tags/index.html</loc>
-    
-    <lastmod>2022-03-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.luckyzmj.cn/contact/index.html</loc>
     
     <lastmod>2022-03-07</lastmod>
     
@@ -86,14 +86,14 @@
   </url>
   
   <url>
-    <loc>http://www.luckyzmj.cn/about/index.html</loc>
+    <loc>http://www.luckyzmj.cn/archives/index.html</loc>
     
     <lastmod>2022-03-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.luckyzmj.cn/archives/index.html</loc>
+    <loc>http://www.luckyzmj.cn/about/index.html</loc>
     
     <lastmod>2022-03-07</lastmod>
     
@@ -128,14 +128,14 @@
   </url>
   
   <url>
-    <loc>http://www.luckyzmj.cn/List/tools/index.html</loc>
+    <loc>http://www.luckyzmj.cn/List/music/index.html</loc>
     
     <lastmod>2022-03-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.luckyzmj.cn/List/music/index.html</loc>
+    <loc>http://www.luckyzmj.cn/List/tools/index.html</loc>
     
     <lastmod>2022-03-07</lastmod>
     
@@ -219,14 +219,14 @@
   </url>
   
   <url>
-    <loc>http://www.luckyzmj.cn/List/galleries/%E5%91%86%E8%90%8C%E7%8C%AB%E5%92%AA/index.html</loc>
+    <loc>http://www.luckyzmj.cn/List/galleries/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%99%AF/index.html</loc>
     
     <lastmod>2022-03-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.luckyzmj.cn/List/galleries/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%99%AF/index.html</loc>
+    <loc>http://www.luckyzmj.cn/List/galleries/%E5%91%86%E8%90%8C%E7%8C%AB%E5%92%AA/index.html</loc>
     
     <lastmod>2022-03-07</lastmod>
     
@@ -270,20 +270,6 @@
   </url>
   
   <url>
-    <loc>http://www.luckyzmj.cn/tags/PicGo/</loc>
-    <lastmod>2022-03-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.luckyzmj.cn/tags/GitHub%E5%9B%BE%E5%BA%8A/</loc>
-    <lastmod>2022-03-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://www.luckyzmj.cn/tags/Hexo/</loc>
     <lastmod>2022-03-08</lastmod>
     <changefreq>daily</changefreq>
@@ -305,14 +291,28 @@
   </url>
   
   <url>
-    <loc>http://www.luckyzmj.cn/tags/%E9%98%BF%E9%87%8C%E4%BA%91/</loc>
+    <loc>http://www.luckyzmj.cn/tags/%E6%B8%B2%E6%9F%93%E7%BB%95%E8%BF%87/</loc>
     <lastmod>2022-03-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://www.luckyzmj.cn/tags/%E6%B8%B2%E6%9F%93%E7%BB%95%E8%BF%87/</loc>
+    <loc>http://www.luckyzmj.cn/tags/PicGo/</loc>
+    <lastmod>2022-03-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.luckyzmj.cn/tags/GitHub%E5%9B%BE%E5%BA%8A/</loc>
+    <lastmod>2022-03-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.luckyzmj.cn/tags/%E9%98%BF%E9%87%8C%E4%BA%91/</loc>
     <lastmod>2022-03-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

@@ -220,7 +220,7 @@
             "desc": "个人博客",
             "icon": {
                 "type": "img",
-                "content": "https://cdn.jsdelivr.net/gh/zhaoze-jpg/Xianqi@main/img/avatar.jpg",
+                "content": "https://s1.ax1x.com/2020/05/17/YR20js.jpg",
                 "bg": "#6b96cf"
             },
             "openMode": "normal",
@@ -241,7 +241,7 @@
                 "width": "x*0.8"
             },
             "title": "个人博客",
-            "url": "http://ze520.cn",
+            "url": "http://www.luckyzmj.cn",
             "customTile": "",
             "urlRandomToken": true
         },
@@ -662,7 +662,7 @@
                 "y": "y*0.05"
             },
             "version": "1.0.0",
-            "poweredBy": "ze520",
+            "poweredBy": "luckyzmj",
             "resizable": true,
             "single": false,
             "size": {
@@ -670,7 +670,7 @@
                 "width": "x*0.8"
             },
             "title": "GoogleHacking",
-            "url": "https://ze520.cn/GoogleHacking/",
+            "url": "http://luckyzmj.cn/GoogleHacking/",
             "customTile": "",
             "urlRandomToken": true
         },
@@ -761,7 +761,7 @@
                 "y": "y*0.05"
             },
             "version": "1.0.0",
-            "poweredBy": "ze520",
+            "poweredBy": "luckyzmj",
             "resizable": true,
             "single": false,
             "size": {
@@ -794,7 +794,7 @@
                 "y": "y*0.05"
             },
             "version": "1.0.0",
-            "poweredBy": "ze520",
+            "poweredBy": "luckyzmj",
             "resizable": true,
             "single": false,
             "size": {
@@ -827,7 +827,7 @@
                 "y": "y*0.05"
             },
             "version": "1.0.0",
-            "poweredBy": "ze520",
+            "poweredBy": "luckyzmj",
             "resizable": true,
             "single": false,
             "size": {
@@ -860,7 +860,7 @@
                 "y": "y*0.05"
             },
             "version": "1.0.0",
-            "poweredBy": "ze520",
+            "poweredBy": "luckyzmj",
             "resizable": true,
             "single": false,
             "size": {

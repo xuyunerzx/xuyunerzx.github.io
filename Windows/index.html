@@ -7,9 +7,9 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <script>
         window.yluiVersion = '2.1.9';
-        document.write('<link defer rel="stylesheet" href="./res/css/loading.css?v='+window.yluiVersion+'"/>');
-        document.write('<script defer src="res/yl.js?v='+window.yluiVersion+'"><\/script>');
-        document.write('<script defer src="onLoad.js?v='+window.yluiVersion+'"><\/script>');
+        document.write('<link rel="stylesheet" href="./res/css/loading.css?v='+window.yluiVersion+'"/>');
+        document.write('<script src="res/yl.js?v='+window.yluiVersion+'"><\/script>');
+        document.write('<script src="onLoad.js?v='+window.yluiVersion+'"><\/script>');
     </script>
 </head>
 <body style="padding: 0;margin: 0;background: black">
@@ -31,7 +31,7 @@
     <p id="loading-powered-by"></p>
 </div>
 <!--图标模板-->
-<script defer type="text/x-template" id="tpl-icon">
+<script type="text/x-template" id="tpl-icon">
     <div :class="[drawer?'icon-drawer-pre':'icon']" :style="{background:nobg?'none':icon.bg}">
         <template v-if="icon.type==='str'">
             {{icon.content.substr(0, 1)}}
@@ -48,7 +48,7 @@
 </script>
 
 <!--菜单模板-->
-<script defer type="text/x-template" id="tpl-menu">
+<script type="text/x-template" id="tpl-menu">
     <div class="menu" @contextmenu.self="onMainContextMenu($event)">
         <yl-menu-item
                 class="animated fadeInUp"
@@ -64,7 +64,7 @@
         </yl-menu-item>
     </div>
 </script>
-<script defer type="text/x-template" id="tpl-menu-item">
+<script type="text/x-template" id="tpl-menu-item">
     <div>
         <div class="item"
              @contextmenu="onContextMenu($event)"
